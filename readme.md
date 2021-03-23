@@ -8,12 +8,6 @@
 
 <h3>In addition to the proposed challenge, I add a message after the user request to finalize the order</h3>
 
-# **Demonstration of the application** 💻
-
-<p align="center">
-  <img src="./.github/demonstration.gif" width="1400px"/>
-</p>
-
 <br>
 
 ## Features
