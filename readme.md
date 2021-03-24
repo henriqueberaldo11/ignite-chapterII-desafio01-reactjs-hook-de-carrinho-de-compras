@@ -6,10 +6,6 @@
 
 ## <p><h2 align="center">Shoes e-commerce application developed in Ignite's third challenge delivered by [Rocketseat]</h2> </p>
 
-<h3>In addition to the proposed challenge, I add a message after the user request to finalize the order</h3>
-
-<br>
-
 ## Features
 - Add a new item to the cart
 - Check all items that are in the cart
